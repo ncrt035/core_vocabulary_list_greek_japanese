@@ -9,4 +9,4 @@ Comments and correction are welcome. Please do not hesitate to leave a comment o
 ## License
 CC BY-SA 3.0
 
-The original vocabulary list were composed by a team at Dickinson College led by Christopher Francese.
+The original vocabulary list was composed by a team at Dickinson College led by Christopher Francese.
